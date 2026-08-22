@@ -1,217 +1,264 @@
-# 👋 Hi, I'm Kenneth-Anthony Nwosu
+# 👋 Kenneth-Anthony Nwosu
 
-### Student • Computer Science • AI Engineering • Building in Public 🇳🇬
+### Student • Computer Science • AI Engineering • Builder 🇳🇬
 
-> **I’m learning how computers work, how software is engineered, and how intelligent systems are built — one project, one experiment, and one difficult concept at a time.**
+> **I'm not trying to look like an engineer. I'm trying to become one.**
 
-I'm a student from Nigeria exploring the intersection of **Computer Science, software engineering, artificial intelligence, mathematics, and creativity**.
+I'm a student from Nigeria exploring **Computer Science, software engineering, artificial intelligence, mathematics, and creative technology**.
 
-I don't want to simply learn how to use technology.
-
-**I want to understand it well enough to build with it.**
+I use this GitHub to document the process:
+**what I learn, what I build, what breaks, what I discover, and how I improve.**
 
 ---
 
-## 🌌 THE JOURNEY
+## ⚡ THE MISSION
 
 ```text
-Curiosity
-    ↓
-Computer Science Fundamentals
-    ↓
-Programming & Software Engineering
-    ↓
-Algorithms • Data • Systems
-    ↓
-Artificial Intelligence & Machine Learning
-    ↓
-Intelligent Systems
-    ↓
-Build something that matters.
+                    CURIOUS
+                       ↓
+              UNDERSTAND THE FUNDAMENTALS
+                       ↓
+                 LEARN TO BUILD
+                       ↓
+             BUILD HARDER THINGS
+                       ↓
+            STUDY INTELLIGENT SYSTEMS
+                       ↓
+             SOLVE MEANINGFUL PROBLEMS
 ```
 
-I'm documenting that journey here.
+The destination may change.
 
-This profile is a living record of what I'm learning, building, breaking, fixing, and discovering.
+The standard doesn't:
 
----
-
-## 🧠 WHAT I'M EXPLORING
-
-### Computer Science
-
-* Programming fundamentals
-* Algorithms & problem solving
-* Data structures
-* Computational thinking
-* Software engineering
-
-### Artificial Intelligence
-
-* Machine learning
-* Neural networks
-* Intelligent systems
-* AI engineering
-* Agentic systems
-
-### Development
-
-* Python
-* JavaScript
-* HTML / CSS
-* Git & GitHub
-* Relational databases
-
-### Beyond Code
-
-* Mathematics
-* Music & piano
-* Economics & investing
-* Technology
-* Creative problem solving
-* Content Creation/Video Editing
+> **Understand deeply. Build honestly. Improve relentlessly.**
 
 ---
 
-## 🚀 CURRENTLY BUILDING
+## 🛰️ CURRENT STATUS
 
-> **The foundations before the future.**
+| Area                | Current Focus                                         |
+| ------------------- | ----------------------------------------------------- |
+| 🐍 Python           | Building programming foundations                      |
+| 🌐 Web              | HTML • CSS • JavaScript                               |
+| 🧠 Computer Science | Algorithms • problem solving • computational thinking |
+| 🛠️ Engineering     | Git • GitHub • software development practices         |
+| 📐 Mathematics      | Strengthening the foundations behind computing        |
+| 🤖 AI               | Exploring machine learning and intelligent systems    |
 
-Right now, my focus is on strengthening the fundamentals that everything else depends on:
+I'm deliberately building the foundations before jumping too far ahead.
+
+---
+
+# 🚀 FEATURED BUILD
+
+## `AcadTranspiler`
+
+**Status:** 🚧 In development
+
+A project I'm building while developing my understanding of software engineering and Computer Science.
+
+The goal isn't simply to finish a project.
+
+It's to learn how to take an idea from:
+
+**problem → design → implementation → testing → iteration**
+
+As the project develops, this section will evolve into a technical case study covering:
+
+* the problem
+* the architecture
+* important design decisions
+* implementation
+* testing
+* lessons learned
+* future improvements
+
+> **The code is the evidence. The README is the explanation.**
+
+---
+
+# 🧪 THE LEARNING LAB
+
+This account is more than a collection of finished projects.
+
+It's also my laboratory.
+
+Here you'll eventually find:
+
+**Programming exercises**
+Small problems used to develop reasoning and fluency.
+
+**Computer Science studies**
+Experiments and implementations that help turn concepts into understanding.
+
+**Technical experiments**
+Things I build because I want to know *why* something works.
+
+**Project notes**
+What succeeded, what failed, and what changed.
+
+**Longer-term projects**
+The work that survives beyond a tutorial and becomes genuinely mine.
+
+> **I care more about understanding than collecting certificates.**
+
+---
+
+# 🧭 WHAT I'M BUILDING TOWARD
+
+My interests currently converge around one question:
+
+> **How can software and intelligent systems be designed to solve difficult, useful problems?**
+
+That leads me toward:
 
 ```text
+Computer Science
+      +
+Software Engineering
+      +
+Mathematics
+      +
+Artificial Intelligence
+      ↓
+Intelligent Systems
+```
+
+I'm interested in the engineering underneath the hype:
+
+**algorithms, data, systems, models, architecture, reliability, and the reasoning required to make software actually work.**
+
+---
+
+# 🎯 THE ROADMAP
+
+### NOW — FOUNDATIONS
+
 Python
 JavaScript
-Computer Science
-Web Development
-Algorithms
+Web development
+Computer Science fundamentals
 Git & GitHub
-Mathematics
-```
+Mathematical thinking
 
-Rather than rushing toward the newest framework or model, I'm trying to understand **why things work**.
+### NEXT — ENGINEERING
 
----
+Algorithms & data structures
+Databases
+Software engineering
+Larger projects
+Testing & debugging
+System design
 
-## 🛠️ SELECTED WORK
+### LATER — INTELLIGENT SYSTEMS
 
-Projects will appear here as I build them.
+Machine learning
+Neural networks
+AI engineering
+Agents & intelligent workflows
+Applied research
+Original systems
 
-| Project       | What it demonstrates |
-| ------------- | -------------------- |
-| 🚧 Project 01 | AcadTranspiler (in-progress)          |
-| 🚧 Project 02 | Coming soon          |
-| 🚧 Project 03 | Coming soon          |
-
-> **Quality over quantity.**
->
-> I'd rather build a few projects I can explain deeply than collect dozens of tutorial repositories.
-
----
-
-## 📚 LEARNING LOG
-
-My GitHub is also my laboratory.
-
-I'm using it to document:
-
-* Computer Science coursework
-* Programming exercises
-* Experiments
-* Projects
-* Technical notes
-* Things I struggled with
-* Things I eventually understood
-
-The goal isn't to make the graph look busy.
-
-**The goal is to become better.**
+> **No shortcuts. Each layer should make the next one stronger.**
 
 ---
 
-## 🧭 A LONG-TERM DIRECTION
+# 🌍 BUILT FROM NIGERIA
 
-My current trajectory looks something like this:
+🇳🇬 **Nigeria**
 
-```text
-Learn
-  ↓
-Understand
-  ↓
-Build
-  ↓
-Measure
-  ↓
-Improve
-  ↓
-Share
-  ↓
-Repeat
-```
+I'm interested in building at a global standard while starting exactly where I am.
 
-Long term, I want to work at the intersection of **software engineering and artificial intelligence** and eventually build intelligent systems that solve meaningful problems.
+I believe geography should never determine how seriously someone is allowed to think, learn, experiment, or build.
 
-I'm still early in the journey.
-
-That's the point.
+This profile is my public record of that process.
 
 ---
 
-## 🌍 WHERE I BUILD FROM
+# 🎹 CODE × MUSIC × CURIOSITY
 
-**Nigeria 🇳🇬**
+Technology is only one part of how I think.
 
-I believe world-class engineering and original ideas can come from anywhere.
+I also spend time with **music and piano**.
 
-This profile is one small part of documenting that journey.
-
----
-
-## 🎹 CODE × MUSIC × CURIOSITY
-
-Technology isn't my only language.
-
-I also spend time with music and piano.
-
-That matters to me because programming and music share something I value:
+Programming and music seem very different, but I like what they have in common:
 
 **structure + creativity + iteration.**
 
----
+You build something.
 
-## 📈 THE PRINCIPLE
+You listen.
 
-> **Don't chase the appearance of progress. Build the evidence of it.**
+You notice what's wrong.
 
-Every repository should eventually answer at least one question:
+You change it.
 
-**What did I learn?**
-**What did I build?**
-**What did I discover?**
-**How did I improve it?**
+You try again.
 
 ---
 
-## 🔭 WHAT'S NEXT?
+# 📈 HOW I MEASURE PROGRESS
 
-More difficult problems.
+Not by how impressive my profile looks.
 
-Better engineering.
+Not by how many repositories I have.
 
-Deeper Computer Science.
+Not by how green my contribution graph becomes.
 
-More ambitious projects.
+I measure progress by whether I can:
 
-Eventually, intelligent systems.
+**explain something I couldn't explain before,**
 
-**One commit at a time.**
+**build something I couldn't build before,**
+
+and **solve a harder problem than I could solve before.**
+
+---
+
+# 🔭 WHAT YOU'LL FIND HERE
+
+As this journey develops, this profile will grow into a collection of:
+
+`PROJECTS`
+`EXPERIMENTS`
+`LEARNING`
+`RESEARCH`
+`ENGINEERING`
+`DISCOVERIES`
+
+Some repositories will be polished.
+
+Some will be experiments.
+
+Some will eventually become obsolete.
+
+That's okay.
+
+**A real learning journey is supposed to show evolution.**
+
+---
+
+## 🌌 ONE DAY AT A TIME
+
+I'm still early.
+
+That's not a weakness.
+
+It's the most exciting part.
+
+There are entire areas of Computer Science I haven't mastered yet, systems I haven't built, problems I haven't learned how to solve, and ideas I haven't discovered.
+
+So I'm building the only way I know how:
+
+**one concept, one experiment, one project, one commit at a time.**
 
 ---
 
 <p align="center">
-  <i>Still learning. Still building. Still asking better questions.</i>
-</p>
 
-<p align="center">
-  <b>— Kenneth-Anthony Nwosu</b>
+### **Learn deeply. Build boldly. Stay curious.**
+
+*— Kenneth-Anthony Nwosu*
+
 </p>
