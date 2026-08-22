@@ -1,35 +1,50 @@
-# 👋 Kenneth-Anthony Nwosu
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0EA5E9&height=180&section=header&text=KENNETH-ANTHONY%20NWOSU&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
-### Student • Computer Science • AI Engineering • Builder 🇳🇬
+<p align="center">
+  <a href="https://github.com/kennethnwosua202311">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Student+%E2%80%A2+Computer+Science+%E2%80%A2+AI+Engineering;Learning+deeply.+Building+boldly.+Staying+curious.;From+foundations+to+intelligent+systems." alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  🇳🇬 <b>Building from Nigeria</b> &nbsp;•&nbsp;
+  🧠 <b>Learning in public</b> &nbsp;•&nbsp;
+  🚀 <b>Building toward AI</b>
+</p>
+
+---
 
 > **I'm not trying to look like an engineer. I'm trying to become one.**
 
 I'm a student from Nigeria exploring **Computer Science, software engineering, artificial intelligence, mathematics, and creative technology**.
 
 I use this GitHub to document the process:
-**what I learn, what I build, what breaks, what I discover, and how I improve.**
+
+**what I learn → what I build → what breaks → what I discover → how I improve**
 
 ---
 
 ## ⚡ THE MISSION
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=CURIOUS%20%E2%86%92%20UNDERSTAND%20%E2%86%92%20BUILD%20%E2%86%92%20IMPROVE&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="90%" />
+</p>
+
 ```text
                     CURIOUS
                        ↓
-              UNDERSTAND THE FUNDAMENTALS
+            UNDERSTAND THE FUNDAMENTALS
                        ↓
                  LEARN TO BUILD
                        ↓
-             BUILD HARDER THINGS
+              BUILD HARDER THINGS
                        ↓
-            STUDY INTELLIGENT SYSTEMS
+             STUDY INTELLIGENT SYSTEMS
                        ↓
-             SOLVE MEANINGFUL PROBLEMS
+              SOLVE MEANINGFUL PROBLEMS
 ```
-
-The destination may change.
-
-The standard doesn't:
 
 > **Understand deeply. Build honestly. Improve relentlessly.**
 
@@ -39,14 +54,18 @@ The standard doesn't:
 
 | Area                | Current Focus                                         |
 | ------------------- | ----------------------------------------------------- |
-| 🐍 Python           | Building programming foundations                      |
+| 🐍 Python           | Programming foundations                               |
 | 🌐 Web              | HTML • CSS • JavaScript                               |
 | 🧠 Computer Science | Algorithms • problem solving • computational thinking |
-| 🛠️ Engineering     | Git • GitHub • software development practices         |
-| 📐 Mathematics      | Strengthening the foundations behind computing        |
+| 🛠️ Engineering     | Git • GitHub • software development                   |
+| 📐 Mathematics      | Foundations for computing                             |
 | 🤖 AI               | Exploring machine learning and intelligent systems    |
 
-I'm deliberately building the foundations before jumping too far ahead.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Computer%20Science-0EA5E9?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Direction-AI%20Engineering-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Building%20in%20Public-0EA5E9?style=for-the-badge" />
+</p>
 
 ---
 
@@ -56,21 +75,21 @@ I'm deliberately building the foundations before jumping too far ahead.
 
 **Status:** 🚧 In development
 
-A project I'm building while developing my understanding of software engineering and Computer Science.
+I'm building this project while strengthening my understanding of software engineering and Computer Science.
 
-The goal isn't simply to finish a project.
+The goal isn't simply to finish it.
 
-It's to learn how to take an idea from:
+It's to learn how to move from:
 
 **problem → design → implementation → testing → iteration**
 
-As the project develops, this section will evolve into a technical case study covering:
+As the project develops, this section will become a technical case study covering:
 
-* the problem
-* the architecture
-* important design decisions
+* architecture
 * implementation
+* important design decisions
 * testing
+* debugging
 * lessons learned
 * future improvements
 
@@ -78,93 +97,71 @@ As the project develops, this section will evolve into a technical case study co
 
 ---
 
-# 🧪 THE LEARNING LAB
+<details>
+<summary><b>🧪 THE LEARNING LAB</b></summary>
 
-This account is more than a collection of finished projects.
+This account is also my laboratory.
 
-It's also my laboratory.
+You'll eventually find:
 
-Here you'll eventually find:
-
-**Programming exercises**
-Small problems used to develop reasoning and fluency.
-
-**Computer Science studies**
-Experiments and implementations that help turn concepts into understanding.
-
-**Technical experiments**
-Things I build because I want to know *why* something works.
-
-**Project notes**
-What succeeded, what failed, and what changed.
-
-**Longer-term projects**
-The work that survives beyond a tutorial and becomes genuinely mine.
+* Programming exercises
+* Computer Science experiments
+* Technical explorations
+* Project notes
+* Things I struggled with
+* Things I eventually understood
 
 > **I care more about understanding than collecting certificates.**
+
+</details>
 
 ---
 
 # 🧭 WHAT I'M BUILDING TOWARD
 
-My interests currently converge around one question:
-
 > **How can software and intelligent systems be designed to solve difficult, useful problems?**
-
-That leads me toward:
 
 ```text
 Computer Science
-      +
+       +
 Software Engineering
-      +
+       +
 Mathematics
-      +
+       +
 Artificial Intelligence
-      ↓
+       ↓
 Intelligent Systems
 ```
 
 I'm interested in the engineering underneath the hype:
 
-**algorithms, data, systems, models, architecture, reliability, and the reasoning required to make software actually work.**
+**algorithms • data • systems • models • architecture • reliability**
 
 ---
 
-# 🎯 THE ROADMAP
+## 🎯 THE ROADMAP
 
-### NOW — FOUNDATIONS
+**NOW — FOUNDATIONS**
 
-Python
-JavaScript
-Web development
-Computer Science fundamentals
-Git & GitHub
-Mathematical thinking
+`Python` · `JavaScript` · `Web Development` · `Computer Science` · `Git/GitHub` · `Mathematics`
 
-### NEXT — ENGINEERING
+↓
 
-Algorithms & data structures
-Databases
-Software engineering
-Larger projects
-Testing & debugging
-System design
+**NEXT — ENGINEERING**
 
-### LATER — INTELLIGENT SYSTEMS
+`Algorithms` · `Data Structures` · `Databases` · `Testing` · `Software Engineering` · `System Design`
 
-Machine learning
-Neural networks
-AI engineering
-Agents & intelligent workflows
-Applied research
-Original systems
+↓
+
+**LATER — INTELLIGENT SYSTEMS**
+
+`Machine Learning` · `Neural Networks` · `AI Engineering` · `Agents` · `Applied Research` · `Original Systems`
 
 > **No shortcuts. Each layer should make the next one stronger.**
 
 ---
 
-# 🌍 BUILT FROM NIGERIA
+## 🌍 BUILT FROM NIGERIA
 
 🇳🇬 **Nigeria**
 
@@ -176,15 +173,15 @@ This profile is my public record of that process.
 
 ---
 
-# 🎹 CODE × MUSIC × CURIOSITY
+## 🎹 CODE × MUSIC × CURIOSITY
 
 Technology is only one part of how I think.
 
 I also spend time with **music and piano**.
 
-Programming and music seem very different, but I like what they have in common:
+Programming and music seem different, but I like what they share:
 
-**structure + creativity + iteration.**
+**structure + creativity + iteration**
 
 You build something.
 
@@ -198,13 +195,16 @@ You try again.
 
 ---
 
-# 📈 HOW I MEASURE PROGRESS
+## 📊 PROGRESS, NOT PERFORMANCE
 
-Not by how impressive my profile looks.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kennethnwosua202311&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethnwosua202311&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
 
-Not by how many repositories I have.
-
-Not by how green my contribution graph becomes.
+> Not by how impressive my profile looks.
+> Not by how many repositories I have.
+> Not by how green my contribution graph becomes.
 
 I measure progress by whether I can:
 
@@ -216,9 +216,40 @@ and **solve a harder problem than I could solve before.**
 
 ---
 
-# 🔭 WHAT YOU'LL FIND HERE
+<details>
+<summary><b>🔬 HOW I LEARN</b></summary>
 
-As this journey develops, this profile will grow into a collection of:
+My ideal loop is:
+
+```text
+Learn
+  ↓
+Question
+  ↓
+Experiment
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Document
+  ↓
+Repeat
+```
+
+AI can accelerate that loop.
+
+But the understanding still has to become mine.
+
+</details>
+
+---
+
+## 🔭 WHAT YOU'LL FIND HERE
 
 `PROJECTS`
 `EXPERIMENTS`
@@ -231,7 +262,7 @@ Some repositories will be polished.
 
 Some will be experiments.
 
-Some will eventually become obsolete.
+Some will become obsolete.
 
 That's okay.
 
@@ -247,18 +278,20 @@ That's not a weakness.
 
 It's the most exciting part.
 
-There are entire areas of Computer Science I haven't mastered yet, systems I haven't built, problems I haven't learned how to solve, and ideas I haven't discovered.
+There are systems I haven't built, problems I haven't solved, and areas of Computer Science I haven't mastered yet.
 
 So I'm building the only way I know how:
 
-**one concept, one experiment, one project, one commit at a time.**
+**one concept → one experiment → one project → one commit at a time.**
 
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0B1220&height=110&section=footer" width="100%" />
+</p>
 
-### **Learn deeply. Build boldly. Stay curious.**
-
-*— Kenneth-Anthony Nwosu*
-
+<p align="center">
+  <b>Learn deeply. Build boldly. Stay curious.</b>
+  <br/>
+  <sub>— Kenneth-Anthony Nwosu</sub>
 </p>
