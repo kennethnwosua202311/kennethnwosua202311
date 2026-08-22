@@ -1,61 +1,48 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║ KENNETH-ANTHONY NWOSU                                               ║
-║ Definitive profile README                                            ║
-║ Narrative-first • animated • technical • scholarship-friendly       ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B1F33,70:0EA5E9,100:38BDF8&height=220&section=header&text=KENNETH-ANTHONY%20NWOSU&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20BUILDING%20IN%20PUBLIC&descSize=15&descAlignY=61"
-    width="100%"
-    alt="Kenneth-Anthony Nwosu"
-  />
+  <img src="./assets/signal-console.gif" width="700" alt="Animated Krypton signal console">
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=920&height=58&lines=Student+%7C+Computer+Science+%7C+AI+Engineering;Learn+deeply.+Build+boldly.+Stay+curious.;From+foundations+to+intelligent+systems.;Question+%E2%86%92+Explore+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand;I%E2%80%99m+not+trying+to+look+like+an+engineer.+I%E2%80%99m+trying+to+become+one."
-    alt="Animated introduction"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0B1F33,70:0EA5E9,100:38BDF8&height=210&section=header&text=KENNETH-ANTHONY%20NWOSU&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20BUILDING%20IN%20PUBLIC&descSize=15&descAlignY=61" width="100%" alt="Kenneth-Anthony Nwosu">
 </p>
 
 <p align="center">
-  🇳🇬 <b>Building from Nigeria</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧠 <b>Computer Science</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🤖 <b>AI Engineering</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🎹 <b>Music</b>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=58&lines=Student+%7C+Computer+Science+%7C+AI+Engineering;Learn+deeply.+Build+boldly.+Stay+curious.;From+foundations+to+intelligent+systems.;Question+%E2%86%92+Explore+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand" alt="Animated introduction">
 </p>
 
 <p align="center">
-  <a href="https://github.com/kennethnwosua202311">
-    <img src="https://img.shields.io/github/followers/kennethnwosua202311?style=flat-square&label=FOLLOWERS&labelColor=07111F&color=38BDF8" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%2B%20BUILDING-0EA5E9?style=flat-square&labelColor=07111F" alt="Status" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING%20IN%20PUBLIC-38BDF8?style=flat-square&labelColor=07111F" alt="Mode" />
+  <img src="./assets/nigeria-wave.gif" width="28" alt="Animated Nigerian flag">
+  <b>Building from Nigeria</b>
+  &nbsp;•&nbsp;
+  <img src="./assets/brain-pulse.gif" width="28" alt="Animated brain">
+  <b>Computer Science</b>
+  &nbsp;•&nbsp;
+  <img src="./assets/ai-core.gif" width="28" alt="Animated AI core">
+  <b>AI Engineering</b>
+  &nbsp;•&nbsp;
+  <img src="./assets/piano-motion.gif" width="28" alt="Animated piano">
+  <b>Music</b>
+</p>
+
+<p align="center">
+  <img src="./assets/rocket-pulse.gif" width="24" alt="Animated rocket">
+  <b>Building in public</b>
+  &nbsp;•&nbsp;
+  <img src="./assets/lab-flask.gif" width="24" alt="Animated laboratory flask">
+  <b>Learning by building</b>
 </p>
 
 ---
 
-# `> WHOAMI`
+## `> WHOAMI`
 
 > **I'm not trying to look like an engineer. I'm trying to become one.**
 
-I'm a student from **Nigeria 🇳🇬** exploring:
+I'm a student from **Nigeria 🇳🇬** exploring **Computer Science, software engineering, artificial intelligence, mathematics, and creative technology**.
 
-`Computer Science` · `Software Engineering` · `Artificial Intelligence` · `Mathematics` · `Creative Technology`
+This GitHub is a public engineering journal:
 
-I use this GitHub as a public engineering journal.
-
-**What I learn.
-What I build.
-What breaks.
-What I discover.
-How I improve.**
+**what I learn → what I build → what breaks → what I discover → how I improve**
 
 I don't want to merely learn how to use technology.
 
@@ -63,14 +50,14 @@ I don't want to merely learn how to use technology.
 
 ---
 
-# `> SYSTEM_BOOT`
+## `> SYSTEM_BOOT`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                  KRYPTON // PROFILE CORE                    │
+│ KRYPTON // PROFILE CORE                                     │
 ├─────────────────────────────────────────────────────────────┤
 │ IDENTITY        Kenneth-Anthony Nwosu                        │
-│ ORIGIN          Nigeria 🇳🇬                                  │
+│ ORIGIN          Nigeria                                     │
 │ STATE           LEARNING / BUILDING                          │
 │ PRIMARY DOMAIN  COMPUTER SCIENCE                            │
 │ DIRECTION       AI ENGINEERING                              │
@@ -80,15 +67,12 @@ I don't want to merely learn how to use technology.
 ```
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DD3FC&center=true&vCenter=true&width=730&height=38&lines=%3E+identity_loaded;%3E+curiosity_detected;%3E+foundations_online;%3E+engineering_mode_enabled;%3E+future_modules_pending"
-    alt="System boot sequence"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DD3FC&center=true&vCenter=true&width=730&height=38&lines=%3E+identity_loaded;%3E+curiosity_detected;%3E+foundations_online;%3E+engineering_mode_enabled;%3E+future_modules_pending" alt="System boot sequence">
 </p>
 
 ---
 
-# `> THE_MISSION`
+## `> THE_MISSION`
 
 ```text
                          CURIOSITY
@@ -111,7 +95,7 @@ I don't want to merely learn how to use technology.
                              │
                              ▼
                     ┌─────────────────┐
-                    │    DEBUG        │
+                    │     DEBUG       │
                     └────────┬────────┘
                              │
                              ▼
@@ -126,31 +110,29 @@ I don't want to merely learn how to use technology.
 
 ---
 
-# `> CURRENT_STATE`
+## `> CURRENT_STATE`
 
-| Domain                  | Focus                                                 |
-| ----------------------- | ----------------------------------------------------- |
-| 🐍 **Python**           | Programming foundations                               |
-| 🌐 **Web**              | HTML · CSS · JavaScript                               |
-| 🧠 **Computer Science** | Algorithms · problem solving · computational thinking |
-| 🛠️ **Engineering**     | Git · GitHub · software development practices         |
-| 📐 **Mathematics**      | Foundations for computing                             |
-| 🤖 **AI**               | Exploring machine learning and intelligent systems    |
+| Domain | Focus |
+|---|---|
+| <img src="./assets/brain-pulse.gif" width="22" alt="Brain"> **Computer Science** | Algorithms · problem solving · computational thinking |
+| 🐍 **Python** | Programming foundations |
+| 🌐 **Web** | HTML · CSS · JavaScript |
+| 🛠️ **Engineering** | Git · GitHub · software development practices |
+| 📐 **Mathematics** | Foundations for computing |
+| <img src="./assets/ai-core.gif" width="22" alt="AI core"> **AI** | Exploring machine learning and intelligent systems |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-LEARNING-38BDF8?style=for-the-badge&labelColor=07111F" />
-  <img src="https://img.shields.io/badge/WEB-BUILDING-0EA5E9?style=for-the-badge&labelColor=07111F" />
-  <img src="https://img.shields.io/badge/CS-FOUNDATIONS-38BDF8?style=for-the-badge&labelColor=07111F" />
-  <img src="https://img.shields.io/badge/AI-EXPLORING-0EA5E9?style=for-the-badge&labelColor=07111F" />
+  <img src="https://img.shields.io/badge/PYTHON-LEARNING-38BDF8?style=for-the-badge&labelColor=07111F">
+  <img src="https://img.shields.io/badge/WEB-BUILDING-0EA5E9?style=for-the-badge&labelColor=07111F">
+  <img src="https://img.shields.io/badge/CS-FOUNDATIONS-38BDF8?style=for-the-badge&labelColor=07111F">
+  <img src="https://img.shields.io/badge/AI-EXPLORING-0EA5E9?style=for-the-badge&labelColor=07111F">
 </p>
 
 > **Foundations before hype.**
 
 ---
 
-# `> THINKING_ENGINE`
-
-I want my learning process to resemble an engineering system:
+## `> THINKING_ENGINE`
 
 ```text
 QUESTION
@@ -176,15 +158,13 @@ UNDERSTAND
    └──────────────────────► QUESTION AGAIN
 ```
 
-A problem isn't only something to defeat.
-
-**It is also a source of information.**
+**A problem isn't only something to defeat. It is also a source of information.**
 
 ---
 
-# `> FEATURED_BUILD`
+## `> FEATURED_BUILD`
 
-## 🚧 AcadTranspiler
+### <img src="./assets/rocket-pulse.gif" width="24" alt="Rocket"> AcadTranspiler
 
 **STATUS:** `IN DEVELOPMENT`
 
@@ -192,7 +172,7 @@ A project I'm building while developing my understanding of Computer Science and
 
 The important part isn't simply making something that runs.
 
-It's learning to move from:
+It's learning to move through:
 
 ```text
 PROBLEM
@@ -210,70 +190,53 @@ ITERATE
 UNDERSTAND
 ```
 
-As AcadTranspiler develops, its repository will become a technical case study covering:
-
-* architecture
-* implementation
-* design decisions
-* testing
-* debugging
-* lessons learned
-* future improvements
-
 > **The code is the evidence. The README is the explanation.**
 
 ---
 
-# `> PROJECT_TELEMETRY`
+## `> PROJECT_TELEMETRY`
 
 ```text
 ╭──────────────────────────────────────────────────────╮
-│ ACADTRANSPILER // LIVE DEVELOPMENT                   │
+│ ACADTRANSPILER // DEVELOPMENT TELEMETRY             │
 ├──────────────────────────────────────────────────────┤
 │ STATE        ███████████████░░░░   BUILDING          │
 │ THINKING     █████████████████░░   ACTIVE            │
 │ TESTING      ██████████░░░░░░░░   EXPANDING         │
 │ DOCUMENTING  ██████████████░░░░   IN PROGRESS       │
 ├──────────────────────────────────────────────────────┤
-│ CURRENT PHASE:  ENGINEERING FOUNDATIONS               │
-│ NEXT PHASE:     DEEPER IMPLEMENTATION                 │
+│ CURRENT PHASE: ENGINEERING FOUNDATIONS                │
+│ NEXT PHASE:    DEEPER IMPLEMENTATION                  │
 ╰──────────────────────────────────────────────────────╯
 ```
 
-**Note:** these indicators describe **focus**, not fake skill percentages.
+*These are focus indicators, not fake skill percentages.*
 
 ---
 
-# `> AI_PROTOCOL`
+## `> AI_PROTOCOL`
 
 I use AI extensively for learning, writing, brainstorming, coding, experimentation, and engineering.
 
-But I want the relationship to look like this:
+But the relationship I want is:
 
 ```text
-                AI
-                 │
-                 ▼
-              ASSIST
-                 │
-                 ▼
-             QUESTION
-                 │
-                 ▼
-              VERIFY
-                 │
-                 ▼
-               TEST
-                 │
-                 ▼
-            UNDERSTAND
-                 │
-                 ▼
-              OWN IT
+AI
+ ↓
+ASSIST
+ ↓
+QUESTION
+ ↓
+VERIFY
+ ↓
+TEST
+ ↓
+UNDERSTAND
+ ↓
+OWN IT
 ```
 
-> **AI can accelerate the work.
-> Understanding has to become mine.**
+> **AI can accelerate the work. Understanding has to become mine.**
 
 The goal is not to produce something impressive without knowing what it is.
 
@@ -284,29 +247,27 @@ The goal is to use powerful tools to **increase actual capability**.
 <details>
 <summary><b>🔬 HOW I LEARN</b></summary>
 
-### My preferred loop
-
 ```text
 Learn
-  ↓
+ ↓
 Question
-  ↓
+ ↓
 Experiment
-  ↓
+ ↓
 Build
-  ↓
+ ↓
 Break
-  ↓
+ ↓
 Debug
-  ↓
+ ↓
 Understand
-  ↓
+ ↓
 Document
-  ↓
+ ↓
 Repeat
 ```
 
-I'm interested in the difference between **output** and **understanding**.
+I care about the difference between **output** and **understanding**.
 
 A finished artifact matters.
 
@@ -316,44 +277,34 @@ But the person who can explain it, modify it, debug it, and learn from it matter
 
 ---
 
-# `> TRAJECTORY`
+## `> TRAJECTORY`
 
 ### NOW — `FOUNDATIONS`
-
-`Python` · `JavaScript` · `Web Development`
-`Computer Science` · `Git/GitHub` · `Mathematics`
+`Python` · `JavaScript` · `Web Development` · `Computer Science` · `Git/GitHub` · `Mathematics`
 
 ↓
 
 ### NEXT — `ENGINEERING`
-
-`Algorithms` · `Data Structures` · `Databases`
-`Testing` · `Software Engineering` · `System Design`
+`Algorithms` · `Data Structures` · `Databases` · `Testing` · `Software Engineering` · `System Design`
 
 ↓
 
 ### LATER — `INTELLIGENT SYSTEMS`
-
-`Machine Learning` · `Neural Networks`
-`AI Engineering` · `Agents` · `Applied Research` · `Original Systems`
+`Machine Learning` · `Neural Networks` · `AI Engineering` · `Agents` · `Applied Research` · `Original Systems`
 
 ↓
 
 ### DESTINATION — `UNKNOWN`
 
-Because the most interesting destination may be something I haven't discovered yet.
+The roadmap can change.
 
-> **The roadmap can change. The curiosity stays.**
+**The curiosity stays.**
 
 ---
 
-# `> WHAT_I'M_REALLY_INTERESTED_IN`
-
-One question keeps pulling these subjects together:
+## `> WHAT_I'M_REALLY_INTERESTED_IN`
 
 > **How can software and intelligent systems be engineered to solve difficult, useful problems?**
-
-That leads toward:
 
 ```text
 Computer Science
@@ -373,7 +324,7 @@ I'm especially interested in the engineering underneath the hype:
 
 ---
 
-# `> LEARNING_LAB`
+## `> LEARNING_LAB`
 
 <details>
 <summary><b>🧪 Open the laboratory</b></summary>
@@ -382,22 +333,11 @@ This account is not meant to contain only polished work.
 
 It is also a laboratory.
 
-You'll find:
-
-**Experiments**
-Technical questions turned into code.
-
-**Practice**
-Exercises used to strengthen reasoning.
-
-**Notes**
-Concepts that became clearer only after implementation.
-
-**Failures**
-Approaches that didn't work and what they taught me.
-
-**Projects**
-Ideas that survive beyond the tutorial stage.
+**Experiments** — technical questions turned into code.  
+**Practice** — exercises used to strengthen reasoning.  
+**Notes** — concepts that became clearer after implementation.  
+**Failures** — approaches that didn't work and what they taught me.  
+**Projects** — ideas that survive beyond the tutorial stage.
 
 > **I care more about understanding than collecting certificates.**
 
@@ -405,13 +345,11 @@ Ideas that survive beyond the tutorial stage.
 
 ---
 
-# `> CODE × MUSIC × CURIOSITY`
+## `> CODE × MUSIC × CURIOSITY`
 
 Technology isn't the only thing that shapes how I think.
 
-I also spend time with **music and piano 🎹**.
-
-Programming and music appear very different, but I like what they share:
+I also spend time with **music and piano**.
 
 ```text
 STRUCTURE
@@ -437,9 +375,11 @@ That mindset follows me into code.
 
 ---
 
-# `> BUILT_FROM_NIGERIA`
+## `> BUILT_FROM_NIGERIA`
 
-🇳🇬 **Nigeria**
+<img src="./assets/nigeria-wave.gif" width="30" alt="Animated Nigerian flag">
+
+**Nigeria**
 
 I'm interested in building at a global standard while starting exactly where I am.
 
@@ -449,37 +389,27 @@ This profile is one public record of that process.
 
 ---
 
-# `> PROGRESS_METRIC`
+## `> PROGRESS`
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kennethnwosua202311&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=07111F&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8"
-    height="175"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethnwosua202311&layout=compact&hide_border=true&langs_count=8&bg_color=07111F&title_color=38BDF8&text_color=CBD5E1"
-    height="175"
-    alt="Top languages"
-  />
-</p>
+I deliberately removed follower counts and third-party **Top Languages / GitHub-stat cards** from the core design.
 
-> The numbers are useful.
+Why?
 
-> **They are not the point.**
+Because a profile shouldn't ask:
 
-I don't measure progress by how impressive my profile looks, how many repositories I have, or how green my contribution graph becomes.
+> **“How impressive are my numbers?”**
 
-I measure progress by whether I can:
+before answering:
 
-**explain something I couldn't explain before,**
-**build something I couldn't build before,**
-**debug something that once defeated me,**
-**and solve a harder problem than I could solve before.**
+> **“What have I actually built?”**
+
+Your real GitHub contribution graph and repositories already provide the evidence.
+
+The README's job is to provide the **context**.
 
 ---
 
-# `> PRINCIPLES`
+## `> PRINCIPLES`
 
 ```text
 01  Learn the fundamentals.
@@ -496,7 +426,7 @@ I measure progress by whether I can:
 
 ---
 
-# `> FUTURE_MODULES`
+## `> FUTURE_MODULES`
 
 ```text
 [✓] curiosity
@@ -512,48 +442,25 @@ I measure progress by whether I can:
 
 **`?` is intentional.**
 
-The future should contain some discoveries I cannot predict from where I am now.
+The future should contain discoveries I cannot predict from where I am now.
 
 ---
 
-# `> WHAT_YOU'LL_FIND_HERE`
-
-```text
-PROJECTS
-EXPERIMENTS
-LEARNING
-RESEARCH
-ENGINEERING
-DISCOVERIES
-```
-
-Some repositories will be polished.
-
-Some will be experiments.
-
-Some will eventually become obsolete.
-
-That's okay.
-
-**A real learning journey is supposed to show evolution.**
-
----
-
-# `> FINAL_SIGNAL`
+## `> FINAL_SIGNAL`
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Still+early.+Still+building.;Every+system+starts+with+a+question.;One+concept.+One+experiment.+One+project.;Learn+deeply.+Build+boldly.+Stay+curious."
-    alt="Closing message"
-  />
+  <img src="./assets/brain-pulse.gif" width="34" alt="Animated brain">
+  <img src="./assets/ai-core.gif" width="34" alt="Animated AI core">
+  <img src="./assets/lab-flask.gif" width="34" alt="Animated flask">
+  <img src="./assets/rocket-pulse.gif" width="34" alt="Animated rocket">
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:030712&height=125&section=footer"
-    width="100%"
-    alt="Animated footer"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Still+early.+Still+building.;Every+system+starts+with+a+question.;One+concept.+One+experiment.+One+project.;Learn+deeply.+Build+boldly.+Stay+curious." alt="Closing animation">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:030712&height=120&section=footer" width="100%" alt="Animated footer">
 </p>
 
 <p align="center">
